@@ -1,4 +1,5 @@
-function addBlog() {
+function addBlog() 
+{
     // Retrieve input values
     var title = document.getElementById("title").value;
     var image = document.getElementById("image").value;

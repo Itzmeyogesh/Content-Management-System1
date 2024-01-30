@@ -7,7 +7,7 @@
 
 body
 {
-    background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*dwLGnkgwmMSU7XN7Yojo1g.png');
+    background-image: url('1_dwLGnkgwmMSU7XN7Yojo1g.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: fixed;
@@ -52,7 +52,7 @@ header
 .parallax 
 {
     /* The image used */
-    background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*dwLGnkgwmMSU7XN7Yojo1g.png');
+    background-image: url('1_dwLGnkgwmMSU7XN7Yojo1g.png');
   
     /* Full height */
     height: 100%; 
@@ -74,7 +74,7 @@ header
   }
   .container
 {
-    background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*dwLGnkgwmMSU7XN7Yojo1g.png');
+    background-image: url('1_dwLGnkgwmMSU7XN7Yojo1g.png');
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
